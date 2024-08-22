@@ -45,7 +45,7 @@
 <br>
 <br>
 
-> Status do Projeto: Em desenvolvimento! :hammer_and_wrench:
+> Status do Projeto: Concluído! :white_check_mark:
 
 <br>
 
